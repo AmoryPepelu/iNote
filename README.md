@@ -1,3 +1,3 @@
-# bin
+# Registry
 
 rabbit hole
